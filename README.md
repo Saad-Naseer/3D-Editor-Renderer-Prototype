@@ -36,4 +36,4 @@ Make sure you have the following installed on your system:
 First, clone the project from GitHub to your local machine using your terminal or command prompt:
 
 ```bash
-git clone [[your-repository-link]](https://github.com/Saad-Naseer/3D-Editor-Renderer-Prototype.git)
+git clone [your-repository-link](https://github.com/Saad-Naseer/3D-Editor-Renderer-Prototype.git)
