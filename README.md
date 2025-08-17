@@ -5,22 +5,18 @@ A working prototype demonstrating the core features of a 3D road modeling applic
 ## Features
 
 This prototype implements the following core functionalities:
+### 1. Frontend:
+- Secure Sign Up and Login Form
+- 3d Editor
+- Export Option
+- Credit Display
 
-### 1. User Management & Storage
-- Secure signup and login for new and existing users.
+### 2.Backend:
+- User Management & Infromation Storage
+- Credit Tracking
+- Raw Data Handling
+- Export Hnadling
 
-### 2. Credit System
-- A functional system for tracking credits per user, which are required for exporting a road model.
+### 3. Redering & Export
+-Raw Data Rendering and Export .obj
 
-### 3. Interactive 3D Editor
-- A user interface for creating road geometry.
-
-### 4. Real-time Preview
-- A low-fidelity 3D renderer that provides instant visual feedback to the user.
-
-### 5. Secure API
-- All communication between the Qt frontend and the backend is handled through a secure REST API.
-- Events are managed using Qt's signals and slots.
-
-### 6. Asynchronous Export
-- The system initiates an export process that runs in the background, preventing the application from freezing during long-running tasks.
