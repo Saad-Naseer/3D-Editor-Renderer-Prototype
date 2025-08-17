@@ -36,4 +36,11 @@ Make sure you have the following installed on your system:
 First, clone the project from GitHub to your local machine using your terminal or command prompt:
 
 ```bash
-git clone [your-repository-link](https://github.com/Saad-Naseer/3D-Editor-Renderer-Prototype.git)
+git clone https://github.com/Saad-Naseer/3D-Editor-Renderer-Prototype.git
+```
+### 3. Run the Application
+- Open Qt Creator.
+- Go to File > Open File or Project...
+- Navigate to the cloned repository and select the file CMakeLists.txt.
+- The project will load. Ensure you have the correct build kit selected.
+- CLick on Play Button in Qt Creator to Run this application
