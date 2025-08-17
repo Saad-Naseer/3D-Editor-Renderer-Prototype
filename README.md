@@ -45,6 +45,6 @@ git clone https://github.com/Saad-Naseer/3D-Editor-Renderer-Prototype.git
 - The project will load. Ensure you have the correct build kit selected.
 - CLick on Play Button in Qt Creator to Run this application
 <p float="left">
-  <img src="images/app.png" width="45%" />
-  <img src="images/image2.png" width="45%" />
+  <img src="images/app.png" width="100%" />
+  <img src="images/3D Editor.png" width="100%" />
 </p>
